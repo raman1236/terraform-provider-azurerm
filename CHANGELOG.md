@@ -1,3 +1,9 @@
+## 4.74.0 (Unreleased)
+
+ENHANCEMENTS:
+
+* `azurerm_bastion_host` - add support for the `private_only_enabled` property ([#28220](https://github.com/hashicorp/terraform-provider-azurerm/issues/28220))
+
 ## 4.67.0 (April 02, 2026)
 
 FEATURES:
