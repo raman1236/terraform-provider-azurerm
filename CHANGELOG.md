@@ -1,3 +1,9 @@
+## 4.74.0 (Unreleased)
+
+BUG FIXES:
+
+* `azurerm_postgresql_flexible_server` - add `B_Standard_B1s` to the `sku_name` validation list ([#21522](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522))
+
 ## 4.71.0 (April 30, 2026)
 
 FEATURES:
